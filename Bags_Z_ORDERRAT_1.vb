@@ -7,7 +7,7 @@ Sub Z_ORDERRAT_1()
 '	The file will automatically avoid saving over the CSIM Order Rat CSV and will now dump clipboard at end of function
 '	The aged tubing section seems non functional and code has been deprecated
 
-    Workbooks.OpenText Filename:="\\dunfs01\Duncan\Logistics and Operations\Central Planning's Reporting Hub\Order_Rationalization_Source\Order Rat.csv"
+    Workbooks.OpenText Filename:="PATH_OMITTED"
 
     'New Code by N99610 on 6/1/2015
     'This section counts the number of rows and stores it as a variable.
