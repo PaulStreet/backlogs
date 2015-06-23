@@ -76,15 +76,6 @@ Sub Z_ORDERRAT_FGSORT()
     Application.DisplayAlerts = True
     On Error GoTo 0
     
-    'This section downloads the order rat information to the backlog.
-    'Application.Run "Z_ORDERRAT_IMPORT"
-    
-    'This code process the order rat information in the backlog.
-    'To Be Completed
-    
-    'This section sets up the final information pertaining order rat and gives order rat options.
-    'To Be Completed
-
 End Sub
 
 Sub Z_ORDERRAT_IMPORT()
